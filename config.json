@@ -1,0 +1,86 @@
+{
+    "nome": "Athena",
+    "acoes":[
+        {
+            "nome": "listar genero",
+            "objetos": [
+                "Romance",
+                "Fantasia",
+                "Terror",
+                "Clássicos"
+            ]
+        },
+        {
+            "nome": "indicar um livro",
+            "objetos": [
+                {
+                    "nome": "Romance",
+                    "livros": [
+                        "Bridgerton: O duque e eu",
+                        "Orgulho e Preconceito",
+                        "Corte de Espinhos e Rosas"
+                    ]
+                },
+                {
+                    "nome": "Fantasia",
+                    "livros": [
+                        "O Silmarillion",
+                        "Harry Potter: O Prisioneiro de Azkaban",
+                        "Box O Castelo Animado"
+                    ]
+                },
+                {
+                    "nome": "Terror",
+                    "livros": [
+                        "It: A coisa",
+                        "O Colecionador",
+                        "Ed & Lorraine Warren: Vidas Eternas"
+                    ]
+                },
+                {
+                    "nome": "Clássicos",
+                    "livros": [
+                        "Moby Dick",
+                        "Drácula Dark Edition",
+                        "Box Sherlock Holmes"
+                    ]
+                }
+            ]
+        },
+        {
+            "nome": "mostrar avaliação",
+            "objetos": [
+                {
+                    "nome": "Romance",
+                    "livros": [
+                        "Sobre Orgulho e Preconceito: 5 estrelas - 93% das pessoas que leram esse livro gostaram.",
+                        "Sobre Corte de Espinhos e Rosas: 4.8 estrelas - 80% das pessoas que leram esse livro gostaram"
+                    ]
+                },
+                {
+                    "nome": "Fantasia",
+                    "livros": [
+                        "Sobre Silmarillion: 5 estrelas - 96% das pessoas que leram esse livro gostaram.",
+                        "Sobre O Castelo Animado: 4.2 estrelas - 78% das pessoas que leram esse livro gostaram."
+                    ]
+                },
+                {
+                    "nome": "Terror",
+                    "livros": [
+                        "Sobre It: A coisa: 4.9 estrelas - 80% das pessoas que leram esse livro gostaram."
+                        
+                    ]
+                },
+                {
+                    "nome": "Clássicos",
+                    "livros": [
+                        "Sobre Moby Dick: 5 estrelas - 97% das pessoas que leram esse livro gostaram.",
+                        "Sobre Drácula Dark Edition: 5 estrelas - 82% das pessoas que leram esse livro gostaram."
+                        
+                    ]
+                }
+                
+            ]
+        }           
+    ]
+}
